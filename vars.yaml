@@ -1,0 +1,8 @@
+---
+kibana:
+  version: 6.6.1
+  ram: 3072
+  cpu: 50
+  port: 5601
+  noderegexp: kibana
+  count: 1
